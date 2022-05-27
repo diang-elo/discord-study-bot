@@ -176,4 +176,4 @@ async def info(ctx):
 
 
 
-client.run('NzgzNzg5MDIzNTM3MjY2NzA4.X8f2aQ.nBtjZRqb47k8wVbb7XS2egL0zns')
+client.run('')
